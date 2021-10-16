@@ -10,8 +10,8 @@
 
     <repositories>
         <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure</url>
         </repository>
     </repositories>
 
