@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.github.rodrigoserracoelho</groupId>
             <artifactId>capi-discovery-spring-boot-autoconfigure</artifactId>
-            <version>-SNAPSHOT</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
