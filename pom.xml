@@ -46,6 +46,6 @@
             <name>GitHub CAPI Discovery Spring Boot Autoconfigure</name>
             <url>https://maven.pkg.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure</url>
         </repository>
-  </distributionManagement>
+    </distributionManagement>
 
 </project>
