@@ -11,7 +11,7 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/rodrigoserracoelho</url>
+            <url>https://github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure/raw/master</url>
         </repository>
     </repositories>
 
