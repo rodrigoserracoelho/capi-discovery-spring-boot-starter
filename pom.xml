@@ -41,11 +41,14 @@
     </properties>
     
     <repositories>
-      <repository>
-        <id>github</id>
-        <name>GitHub CAPI Discovery Autoconfigure</name>
-        <url>https://maven.pkg.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure</url>
-      </repository>
+        <repository>
+            <id>capi-discovery-spring-boot-autoconfigure</id>
+            <url>https://raw.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure/mvn-repo/</url>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
   </repositories>
 
 </project>
