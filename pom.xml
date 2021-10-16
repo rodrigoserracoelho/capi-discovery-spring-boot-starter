@@ -8,6 +8,13 @@
     <version>0.0.1</version>
     <name>capi-discovery-spring-boot-starter</name>
 
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -39,13 +46,6 @@
         <capi.version>0.0.1</capi.version>
         <spring-boot.version>2.5.4</spring-boot.version>
     </properties>
-
-    <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
 
 
 </project>
