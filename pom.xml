@@ -15,9 +15,9 @@
             <version>${spring-boot.version}</version>
         </dependency>
         <dependency>
-            <groupId>io.surisoft.capi.lb</groupId>
+            <groupId>com.github.rodrigoserracoelho</groupId>
             <artifactId>capi-discovery-spring-boot-autoconfigure</artifactId>
-            <version>${capi.version}</version>
+            <version>-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
