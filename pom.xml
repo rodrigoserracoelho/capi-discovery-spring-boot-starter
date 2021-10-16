@@ -42,7 +42,7 @@
     
     <repositories>
         <repository>
-            <id>capi-discovery-spring-boot-autoconfigure</id>
+            <id>github</id>
             <url>https://raw.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
