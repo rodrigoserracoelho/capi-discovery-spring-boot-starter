@@ -39,5 +39,13 @@
         <capi.version>0.0.1</capi.version>
         <spring-boot.version>2.5.4</spring-boot.version>
     </properties>
+    
+    <repositories>
+      <repository>
+        <id>github</id>
+        <name>GitHub CAPI Discovery Autoconfigure</name>
+        <url>https://maven.pkg.github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure</url>
+      </repository>
+  </repositories>
 
 </project>
