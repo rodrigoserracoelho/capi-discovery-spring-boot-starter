@@ -8,13 +8,6 @@
     <version>0.0.1</version>
     <name>capi-discovery-spring-boot-starter</name>
 
-    <repositories>
-        <repository>
-            <id>github</id>
-            <url>https://github.com/rodrigoserracoelho/capi-discovery-spring-boot-autoconfigure/raw/master</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -46,6 +39,14 @@
         <capi.version>0.0.1</capi.version>
         <spring-boot.version>2.5.4</spring-boot.version>
     </properties>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>Github Repository CAPI</name>
+            <url>https://maven.pkg.github.com/rodrigoserracoelho/capi-discovery-spring-boot-starter</url>
+        </repository>
+    </distributionManagement>
 
 
 </project>
