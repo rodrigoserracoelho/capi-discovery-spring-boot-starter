@@ -17,7 +17,7 @@
         <dependency>
             <groupId>io.surisoft.capi.lb</groupId>
             <artifactId>capi-discovery-spring-boot-autoconfigure</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2</version>
         </dependency>
     </dependencies>
 
@@ -36,7 +36,7 @@
     </build>
 
     <properties>
-        <capi.version>0.0.1</capi.version>
+        <capi.version>0.0.2</capi.version>
         <spring-boot.version>2.5.4</spring-boot.version>
     </properties>
 
